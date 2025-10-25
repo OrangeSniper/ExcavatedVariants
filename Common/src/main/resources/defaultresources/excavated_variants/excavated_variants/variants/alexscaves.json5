@@ -41,6 +41,39 @@
         'stone',
       ],
     },
+	
+    {
+      id: 'alex_cake_layer',
+      lang: {
+        en_us: 'Cake Layer',
+      },
+      block_id: 'alexscaves:cake_layer',
+      types: [
+        'stone',
+      ],
+    },
+	
+    {
+      id: 'alex_chocolate',
+      lang: {
+        en_us: 'Chocolate',
+      },
+      block_id: 'alexscaves:block_of_chocolate',
+      types: [
+        'stone',
+      ],
+    },
+	
+    {
+      id: 'alex_abyssmarine',
+      lang: {
+        en_us: 'Abyssmarine',
+      },
+      block_id: 'alexscaves:abyssmarine',
+      types: [
+        'stone',
+      ],
+    },
   ],
   provided_ores: [
     {
